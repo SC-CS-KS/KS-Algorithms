@@ -14,5 +14,9 @@ Curated collection of useful algorithm knowledge that can study in half hour or 
 
 ## Reference
 * [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+* [算法分析](http://durant35.github.io/page/7/)
+* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+
+
 
 
