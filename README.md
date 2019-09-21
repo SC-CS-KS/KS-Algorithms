@@ -1,48 +1,40 @@
-# half-hour-of-ALGS
-Curated collection of useful algorithm knowledge that can study in half hour or less.
+# DS-ALGOs
+Curated collection of useful data structure and algorithms knowledge（数据结构与算法）.
 
 ## 数据结构
-* [String](String.md)
-* [List](List.md)
+* [String](DS/String.md)
+* [List](DS/List.md)
 * [Stack]()
-* [Queue](Queue.md)
-* [Tree](Tree.md)
+* [Queue](DS/Queue.md)
+
+* [Tree](DS/Tree.md)
+* * 字典树
+* * Red-Black 红黑树
+
 * [BitChart]()
 
-### Filter
-* [Bloom filter](Filter/Bloom-Filter/bloom-filter.md)
-* [Cuckoo Filter](Filter/CuckooFilter.md)
+* [Bloom Filter](DS/Filter/Bloom-Filter/bloom-filter.md)
+* [Cuckoo Filter](DS/Filter/CuckooFilter.md)
 
 ## 算法
-* [Sort](Sort.md)
-* [Search](Serach.md)
+* [Sort](ALGOs/Sort.md)
+* [Search](ALGOs/Search.md)
 
-### 算法思维
-* 枚举 - 将问题的所有可能答案一一列举，根据判断条件判断此答案是否合适，一般用循环实现。
+### [算法思维](AlgosThinking/README.md)
+* 枚举
 * 递推
-```md
-顺推法
-	从已知条件出发，逐步推算出要解决问题的方法
-逆推法
-	从已知结果出发，用迭代表达式逐步推算出问题开始的条件，即顺推法的逆过程
-```
-```md
-经典运用 : 斐波那契数列（顺推法）、银行存款（逆推法）
-```
 * 递归
 * 分治
 * 贪心
 * 回溯
 * 动态规划
 * 模拟
-```md
-对真实事物或者过程的虚拟，经典运用：猜数字游戏、掷骰子问题。
-```
 
-### 算法分析
+### [算法分析](AlgoAnlysis/README.md)
 * 复杂度分析
 * * 时间复杂度
 * * 空间复杂度
+
 * 摊还分析
 
 ## Resources
