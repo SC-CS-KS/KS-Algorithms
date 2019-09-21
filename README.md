@@ -3,7 +3,7 @@ Curated collection of useful algorithm knowledge that can study in half hour or 
 
 ## 数据结构
 * [String](String.md)
-* [List])(List.md)
+* [List](List.md)
 * [Stack]()
 * [Queue](Queue.md)
 * [Tree](Tree.md)
@@ -44,8 +44,6 @@ Curated collection of useful algorithm knowledge that can study in half hour or 
 * * 时间复杂度
 * * 空间复杂度
 * 摊还分析
-
-## [LeetCode](LeetCode/README.md)
 
 ## Resources
 * [My算法](https://github.com/SunnnyChan/sc.ebooks/tree/master/ds-algo)
