@@ -1,4 +1,4 @@
-# # DS-ALGOs (数据结构与算法)
+# DS-ALGOs (数据结构与算法)
 Curated collection of useful data structure and algorithms knowledge（数据结构与算法）.
 
 Table of Contents
