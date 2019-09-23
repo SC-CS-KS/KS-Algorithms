@@ -15,8 +15,6 @@
 ## [Cuckoo Filter](DS/Filter/CuckooFilter.md)
 
 # 算法
-## [Sort](ALGOs/Sort.md)
-## [Search](ALGOs/Search.md)
 
 ## [算法思维](AlgosThinking/README.md)
 ### 枚举
@@ -34,6 +32,9 @@
 #### 空间复杂度
 
 ### 摊还分析
+
+## [Sort](ALGOs/Sort.md)
+## [Search](ALGOs/Search.md)
 
 ## Resources
 * [My算法](https://github.com/SunnnyChan/sc.ebooks/tree/master/ds-algo)

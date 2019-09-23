@@ -16,8 +16,6 @@ Table of Contents
       * [<a href="DS/Filter/Bloom-Filter/bloom-filter.md">Bloom Filter</a>](#bloom-filter)
       * [<a href="DS/Filter/CuckooFilter.md">Cuckoo Filter</a>](#cuckoo-filter)
    * [算法](#算法)
-      * [<a href="ALGOs/Sort.md">Sort</a>](#sort)
-      * [<a href="ALGOs/Search.md">Search</a>](#search)
       * [<a href="AlgosThinking/README.md">算法思维</a>](#算法思维)
          * [枚举](#枚举)
          * [递推](#递推)
@@ -32,5 +30,6 @@ Table of Contents
             * [时间复杂度](#时间复杂度)
             * [空间复杂度](#空间复杂度)
          * [摊还分析](#摊还分析)
-
+      * [<a href="ALGOs/Sort.md">Sort</a>](#sort)
+      * [<a href="ALGOs/Search.md">Search</a>](#search)
 
