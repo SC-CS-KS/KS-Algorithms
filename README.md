@@ -1,5 +1,7 @@
-# DS-ALGOs (数据结构与算法)
+# 数据结构与算法
 Curated collection of useful data structure and algorithms knowledge（数据结构与算法）.
+
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 Table of Contents
 =================
