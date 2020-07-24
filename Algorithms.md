@@ -36,16 +36,6 @@
 ## [Sort](ALGOs/Sort.md)
 ## [Search](ALGOs/Search.md)
 
-## Resources
-* [My算法](https://github.com/SunnnyChan/sc.ebooks/tree/master/ds-algo)
-
-* [Java Algorithms and Implementations](https://howtodoinjava.com/java-algorithms-implementations/)
-* [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
-* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
-
-* [算法分析](http://durant35.github.io/page/7/)
-
-
 
 
 
